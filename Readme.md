@@ -13,7 +13,7 @@ barcode04
 .
 
 ```
-* renaming them by yourself is time consuming but in the long run, it will save your time 
+* renaming them by yourself is time consuming in the long run 
 * prepare a .csv file like this
 
  
