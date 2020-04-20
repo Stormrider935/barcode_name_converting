@@ -45,7 +45,7 @@ def helpMSG() {
     log.info """
     .
     ${c_light_magenta}how to use this rename-of-the-barcode-folders-pipeline:${c_reset}
-    nextflow run rename.nf --csv '*/*.csv' --'path/to/barcode_dir'
+    nextflow run rename.nf --csv '*/*.csv' --barcode_dir 'path/to/barcode_dir'
 
     how should your .csv look like
 
